@@ -1,0 +1,14 @@
+c:\Users\hussein.fares\programmering#1\lucktext\bin\Debug\net8.0\lucktext.exe
+c:\Users\hussein.fares\programmering#1\lucktext\bin\Debug\net8.0\lucktext.deps.json
+c:\Users\hussein.fares\programmering#1\lucktext\bin\Debug\net8.0\lucktext.runtimeconfig.json
+c:\Users\hussein.fares\programmering#1\lucktext\bin\Debug\net8.0\lucktext.dll
+c:\Users\hussein.fares\programmering#1\lucktext\bin\Debug\net8.0\lucktext.pdb
+c:\Users\hussein.fares\programmering#1\lucktext\obj\Debug\net8.0\lucktext.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hussein.fares\programmering#1\lucktext\obj\Debug\net8.0\lucktext.AssemblyInfoInputs.cache
+c:\Users\hussein.fares\programmering#1\lucktext\obj\Debug\net8.0\lucktext.AssemblyInfo.cs
+c:\Users\hussein.fares\programmering#1\lucktext\obj\Debug\net8.0\lucktext.csproj.CoreCompileInputs.cache
+c:\Users\hussein.fares\programmering#1\lucktext\obj\Debug\net8.0\lucktext.dll
+c:\Users\hussein.fares\programmering#1\lucktext\obj\Debug\net8.0\refint\lucktext.dll
+c:\Users\hussein.fares\programmering#1\lucktext\obj\Debug\net8.0\lucktext.pdb
+c:\Users\hussein.fares\programmering#1\lucktext\obj\Debug\net8.0\lucktext.genruntimeconfig.cache
+c:\Users\hussein.fares\programmering#1\lucktext\obj\Debug\net8.0\ref\lucktext.dll
